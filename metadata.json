@@ -1,0 +1,5 @@
+{
+  "name": "AI News Summarizer",
+  "description": "An application that fetches, displays, and summarizes news articles related to a user's query using the Gemini API with Google Search grounding.",
+  "requestFramePermissions": []
+}
